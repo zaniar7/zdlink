@@ -246,11 +246,11 @@ function create_config( )
     An Advanced Anti Spam Bot Forked On TeleSeed
     
     Develpoed By:
-    @sina7sk
+    @zaniar1122
     Manager:
-    @yellowhat
+    @zaniar1122
     Founder:
-    @amirho3in
+    @zaniar1122
     
     Special Thank To:
     Mehr Pouya
@@ -343,9 +343,9 @@ _________________________________________
 _________________________________________
 _________________________________________
 _________________________________________
-ليست سودوها :@Cia_00_07
-@sina7sk
-@amirho3in
+ليست سودوها :@zaniar1122
+@zaniar1122
+@zaniar1122
 ]]
   }
   serialize_to_file(config, './data/config.lua')
